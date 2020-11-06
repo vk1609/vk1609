@@ -24,7 +24,7 @@
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
-<img align = "right" src="https://giphy.com/embed/p4NLw3I4U0idi" width="500" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align = "right" src="https://giphy.com/embed/p4NLw3I4U0idi.gif" width="500" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 </br>
 
@@ -34,8 +34,10 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vamsi-krishna-5b7704184/);
 - 📝[Resume](https://drive.google.com/file/d/1_R2qaRytKNv-JAuUx8C9fM0yTiqhzkq7/view?usp=sharing)
+</br>
 
 **Languages and Tools:**
+</br>
 <code><img height="40" width = "40" src="https://img.icons8.com/ios-filled/2x/javascript.png"></code>
 <code><img height="40" width = "40" src="https://img.icons8.com/windows/2x/nodejs.png"></code>
 <code> <img height="40" width = "40" src = "https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
