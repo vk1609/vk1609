@@ -24,7 +24,7 @@
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
-<img src="https://giphy.com/embed/p4NLw3I4U0idi" width="500" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align = "right" src="https://giphy.com/embed/p4NLw3I4U0idi" width="500" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 </br>
 
