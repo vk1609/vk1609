@@ -19,11 +19,12 @@
 </a>
 </br>
 
-### WELCOME TO MY GIT-HUB.
+
 
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
+**FACT ABOUT ME**
 <h1>I will not regret to do the things that will make me mighty</h1>
 
 </br>
