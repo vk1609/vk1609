@@ -17,13 +17,14 @@
 <a href="https://www.instagram.com/v_k_1609/">
   <img align="left" alt="VK's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
 
 ### WELCOME TO MY GIT-HUB.
 
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
-<img align = "right" alt = "GIF" src = "https://giphy.com/gifs/programmer-p4NLw3I4U0idi" width = "500" height = "320">
+<iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="500" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </br>
 
@@ -35,12 +36,11 @@
 - 📝[Resume](https://drive.google.com/file/d/1_R2qaRytKNv-JAuUx8C9fM0yTiqhzkq7/view?usp=sharing)
 
 **Languages and Tools:**
-
-<code><img height="20" width = "20" src="https://icons8.com/icon/39853/javascript"></code>
-<code><img height="20" width = "20" src="https://icons8.com/icon/FQlr_bFSqEdG/node-js"></code>
-<code> <img height = "20" width = "20" src = "https://icons8.com/icon/13679/java-coffee-cup-logo"></code>
-<code> <img height = "20" width = "20" src = "https://img.icons8.com/ios-filled/2x/html-filetype.png"></code>
-<code> <img height = "20" width = "20" src = "https://img.icons8.com/ios-filled/2x/css-filetype.png"></code>
-<code> <img height = "20" width = "20" src = "https://img.icons8.com/ios-filled/2x/sql.png"></code>
-<code> <img height = "20" width = "20" src = "https://img.icons8.com/ios-filled/2x/circled-c.png"></code>
-<code> <img height = "20" width = "20" src = "https://img.icons8.com/ios-filled/2x/jsp.png"></code>
+<code><img height="40" width = "40" src="https://img.icons8.com/ios-filled/2x/javascript.png"></code>
+<code><img height="40" width = "40" src="https://img.icons8.com/windows/2x/nodejs.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/html-filetype.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/css-filetype.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/sql.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/circled-c.png"></code>
+<code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/jsp.png"></code>
