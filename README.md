@@ -1,6 +1,5 @@
-### HI, THIS IS VAMSI KRISHNA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### HELLO MATE, THIS IS VAMSI KRISHNA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I AM A FULL STACK DEVELOPER.
 
 <a href="https://discord.gg/5UtbjFuT">
   <img align="left" alt="VK's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -25,13 +24,14 @@
 
 </br>
 <h2>FACT ABOUT ME</h2>
-<h3>I will not regret to do the things that will make me mighty</h3>
+<h3>I will not regret to do the things that will make me efficacious</h3>
 
 </br>
 
 - 👨🏽‍💻 I’m currently working on something interesting :wink:;
 - 🌱 I’m currently learning how to use machines for my purpose 😏;
 - 💼 I'm a job seeker;
+- 🤓 I was in search of learning new things;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vamsi-krishna-5b7704184/);
 - 📝[Resume](https://drive.google.com/file/d/1_R2qaRytKNv-JAuUx8C9fM0yTiqhzkq7/view?usp=sharing)
