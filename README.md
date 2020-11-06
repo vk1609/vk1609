@@ -24,8 +24,8 @@
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
-**FACT ABOUT ME**
-<h1>I will not regret to do the things that will make me mighty</h1>
+<h2>FACT ABOUT ME</h2>
+<h3>I will not regret to do the things that will make me mighty</h3>
 
 </br>
 
