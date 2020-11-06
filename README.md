@@ -24,13 +24,13 @@
 ### HOPE YOU WILL EXPLORE NEW THINGS.
 
 </br>
-
+<h1>I will not regret to do the things that will make me mighty</h1>
 
 </br>
 
 - 👨🏽‍💻 I’m currently working on something interesting :wink:;
 - 🌱 I’m currently learning how to use machines for my purpose 😏;
-- 💼 I'm currently looking for a good job;
+- 💼 I'm a job seeker;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vamsi-krishna-5b7704184/);
 - 📝[Resume](https://drive.google.com/file/d/1_R2qaRytKNv-JAuUx8C9fM0yTiqhzkq7/view?usp=sharing)
