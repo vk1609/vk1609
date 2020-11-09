@@ -24,9 +24,10 @@
 
 </br>
 <h2>FACT ABOUT ME</h2>
-<h3>I like to work on projects and learn technologies and tools that help me grow as a <b>Professional developer</b>.</h3>
+<h3>I like to work on projects and learn technologies and tools that help me grow as a "Professional developer".</h3>
 
 </br>
+<h3> ABOUT ME :</h3>
 
 - 👨🏽‍💻 I’m currently working on something interesting :wink:;
 - 🌱 I’m currently learning how to use machines for my purpose 😏;
