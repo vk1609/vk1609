@@ -24,7 +24,7 @@
 
 </br>
 <h2>FACT ABOUT ME</h2>
-<h3>I will not regret to do the things that will make me efficacious</h3>
+<h3>I like to work on projects and learn technologies and tools that help me grow as a <b>Professional developer</b>.</h3>
 
 </br>
 
