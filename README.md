@@ -1,4 +1,4 @@
-### HELLO MATE, THIS IS VAMSI KRISHNA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello mate, This is Vamsi Krishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <a href="https://discord.gg/5UtbjFuT">
@@ -20,7 +20,7 @@
 
 
 
-### HOPE YOU WILL EXPLORE NEW THINGS.
+### Hope you will explore good things in my GIT.
 
 </br>
 <h2>FACT ABOUT ME</h2>
