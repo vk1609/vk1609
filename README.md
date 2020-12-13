@@ -49,3 +49,6 @@
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/sql.png"></code>
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/circled-c.png"></code>
 <code> <img height="40" width = "40" src = "https://img.icons8.com/ios-filled/2x/jsp.png"></code>
+<code><img height="40" width = "40" src ="https://img.icons8.com/ios-filled/2x/php.png"></code>
+<code><img height="40" width = "40" src ="https://img.icons8.com/ios-filled/2x/angularjs.png"></code>
+<code><img height="40" width = "40" src ="https://img.icons8.com/ios-filled/2x/typescript.png"></code>
