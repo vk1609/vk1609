@@ -31,8 +31,6 @@
 
 
 - 📚 Graduate from Saveetha Engineering College, Chennai.
-- 🌱 I’m currently learning Fullstack Development from FACE academy.
-- 💼 I'm looking to join a tech enterprise and work on real-world impactful projects.
 - 🤓 I was in search of learning new things which can excel my skills as a professional developer.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vamsi-krishna-5b7704184/).
