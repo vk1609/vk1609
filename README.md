@@ -33,7 +33,7 @@
 - 📚 Graduate from Saveetha Engineering College, Chennai.
 - 🤓 I was in search of learning new things which can excel my skills as a professional developer.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vamsi-krishna-5b7704184/).
+- 📫 How to reach me: [@VamsiKrishna](https://www.linkedin.com/in/vk1609/).
 - 📝[Resume](https://drive.google.com/file/d/1Qm1yNZEItsraiQJC_y0ovy3wvo6cqMk7/view?usp=sharing).
 </br>
 
